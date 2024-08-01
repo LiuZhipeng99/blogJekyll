@@ -18,9 +18,9 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
 domainUrl: 'https://liuzhipeng99.github.io'
-baseurl: '/testjekyll'
+baseurl: '/blogJekyll'
 
-# 吐个槽地址，会在chat页面中重定向到该地址
+# 吐个槽地址，会在chat页面中重定向到该地址，，腾讯兔小巢留言板，替代评论的valine/waline/serverless服务
 tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
